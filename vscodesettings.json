@@ -1,0 +1,35 @@
+{
+    "window.zoomLevel": 2,
+    "window.menuBarVisibility": "default",
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.colorCustomizations": {
+        "[Material Theme Darker]": {
+            "statusBar.debuggingBackground": "#212121",
+        }
+    },
+    "editor.fontSize": 15,
+    "dart.flutterAdbConnectOnChromeOs": true,
+    "dart.previewFlutterUiGuides": true,
+    "editor.formatOnSave": true,
+    "files.enableTrash": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.showPushSuccessNotification": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "window.titleBarStyle": "custom",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.associations": {
+        "ui": "layout",
+        "screens": "layout",
+        "bloc": "controller",
+        "global_state": "global"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "master"
+    ],
+    "git.autofetch": true,
+    "terminal.integrated.rendererType": "dom"
+}
